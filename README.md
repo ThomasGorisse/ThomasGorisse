@@ -1,9 +1,13 @@
 # Android AR passionate
 ## In love with this everyday evolving technology.
-I appreciate sharing / helping / discussing / developing on evrything around mobile applications with others from beginners to experts.
 
 | ![135054559-1c5282d6-2476-4e71-92c6-cfc234cb5f3b](https://user-images.githubusercontent.com/6597529/137602613-0efe2991-2f14-4eb1-93b6-41e2b4825b02.gif) | ![ezgif-4-a36f88084ca8](https://user-images.githubusercontent.com/6597529/137602616-1493ba7d-8f40-449f-8d47-e1a4f140a3c9.gif) | ![ezgif-4-1564f0d2deca](https://user-images.githubusercontent.com/6597529/137602973-c8059bf2-e913-4d43-bc22-d3c9586b7920.gif) | ![ezgif-4-f331c11635f2](https://user-images.githubusercontent.com/6597529/137602892-87977a12-2a85-4be8-ba5a-f4fdc1e4e403.gif) |
 | - | - | - | - |
+
+
+### I appreciate sharing / helping / discussing / developing on evrything around mobile applications with others from beginners to experts.
+![logo_dark_rounded](https://user-images.githubusercontent.com/6597529/137603281-383d2212-af0e-483e-a32b-2ea237ba87d8.png)
+
 
 To make it short I've been working on mobile applications since the real beginning.
 
