@@ -15,7 +15,7 @@ To make it short I've been working on mobile applications since the real beginni
 | - | - |
 
 
-It could seem far away but my first job was to make apps for J2ME mobile phones Nokia/Samsung/Sony/Motorola/Blackberry and let users apreciate a good Dailymotion video on 320 x 240px 2.6 inches screens.
+It could seems far away but my first job was to make apps for J2ME mobile phones Nokia/Samsung/Sony/Motorola/Blackberry and let users apreciate a good Dailymotion video on 320 x 240px 2.6 inches screens.
 
 | ![accueil](https://user-images.githubusercontent.com/6597529/137602417-cc6156ec-9e3e-4d9f-868f-8939c5ce7557.jpg) | ![scr](https://user-images.githubusercontent.com/6597529/137602243-d0a9d646-eb1a-4e47-84b6-4f7ab3a657c4.jpg) | ![splash](https://user-images.githubusercontent.com/6597529/137602335-1b6dcfcf-6548-469d-89dd-3914d2e1ec29.png) | ![navigo1](https://user-images.githubusercontent.com/6597529/137602434-5d6bacff-eee2-4da1-affe-d99fef07b2ec.png) |
 | - | - | - | - |
