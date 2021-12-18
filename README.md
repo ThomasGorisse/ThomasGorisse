@@ -4,7 +4,7 @@
 | ![135054559-1c5282d6-2476-4e71-92c6-cfc234cb5f3b](https://user-images.githubusercontent.com/6597529/137602613-0efe2991-2f14-4eb1-93b6-41e2b4825b02.gif) | ![ezgif-4-a36f88084ca8](https://user-images.githubusercontent.com/6597529/137602616-1493ba7d-8f40-449f-8d47-e1a4f140a3c9.gif) | ![ezgif-4-1564f0d2deca](https://user-images.githubusercontent.com/6597529/137602973-c8059bf2-e913-4d43-bc22-d3c9586b7920.gif) | ![ezgif-4-f331c11635f2](https://user-images.githubusercontent.com/6597529/137602892-87977a12-2a85-4be8-ba5a-f4fdc1e4e403.gif) |
 | - | - | - | - |
 
-### I appreciate sharing / helping / discussing / developing on everything around mobile applications with beginers to experts.
+### I appreciate sharing / helping / discussing / developing on everything around mobile applications with beginers to experts in here:
 [![logo](https://user-images.githubusercontent.com/6597529/145185961-660b8bc3-1bde-459b-b190-42d180a1c336.png)](https://sceneview.github.io/)
 
 
