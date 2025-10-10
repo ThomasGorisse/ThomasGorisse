@@ -1,5 +1,24 @@
-# Android AR passionate
+# Senior Android Engineer
 ## In love with this everyday evolving technology.
+
+- Android Kotlin / Jetpack Compose / Navigation for Compose / Material 3
+- Flow / Coroutines / Hilt / Dagger / Room / Firebase
+- 3D / AR / ARCore / Filament / Sceneview / Sceneform / Blender
+- MVVM / Clean architecture
+
+## Apps I have been working on
+
+![Mon E.Leclerc](https://playbadges.pavi2410.com/badge/full?id=com.infomil.bill&theme=dark)
+![Radio Restos](https://playbadges.pavi2410.com/badge/full?id=com.digitalmate.radiorestos&theme=dark)
+![Fortuneo](https://playbadges.pavi2410.com/badge/full?id=com.fortuneo.android&theme=dark)
+![2VOICE Manager](https://playbadges.pavi2410.com/badge/full?id=com.fdi.smartble&theme=dark)
+![SANOLINK](https://playbadges.pavi2410.com/badge/full?id=com.rebaze.sanolib&theme=dark)
+![SNPL](https://playbadges.pavi2410.com/badge/full?id=com.snpl.app2&theme=dark)
+![Octopus Community](https://playbadges.pavi2410.com/badge/full?id=com.octopuscommunity.app&theme=dark)
+![ScanMyHome](https://playbadges.pavi2410.com/badge/full?id=com.yembo.scanmyhome.onsite&theme=dark)
+![AR Model Viewer](https://playbadges.pavi2410.com/badge/full?id=com.gorisse.thomas.arcamera&theme=dark)
+
+## AR Developments
 
 | ![135054559-1c5282d6-2476-4e71-92c6-cfc234cb5f3b](https://user-images.githubusercontent.com/6597529/137602613-0efe2991-2f14-4eb1-93b6-41e2b4825b02.gif) | ![ezgif-4-a36f88084ca8](https://user-images.githubusercontent.com/6597529/137602616-1493ba7d-8f40-449f-8d47-e1a4f140a3c9.gif) | ![ezgif-4-1564f0d2deca](https://user-images.githubusercontent.com/6597529/137602973-c8059bf2-e913-4d43-bc22-d3c9586b7920.gif) | ![ezgif-4-f331c11635f2](https://user-images.githubusercontent.com/6597529/137602892-87977a12-2a85-4be8-ba5a-f4fdc1e4e403.gif) |
 | - | - | - | - |
