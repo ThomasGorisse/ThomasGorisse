@@ -12,19 +12,10 @@
 <h3>Senior Android Engineer · Open Source Creator · AI-Augmented Builder</h3>
 
 <p>
-  <a href="https://thomasgorisse.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0b1120?style=flat-square&logo=firefox&logoColor=4f8ef7&label=thomasgorisse.github.io&labelColor=0b1120&color=4f8ef7" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/thomas-gorisse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@thomasgorisse">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nantes%2C%20France-🇫🇷-0b1120?style=flat-square&labelColor=0b1120" />
+  <a href="https://thomasgorisse.github.io">thomasgorisse.github.io</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/thomas-gorisse/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@thomasgorisse">YouTube</a> &nbsp;·&nbsp;
+  Nantes, France 🇫🇷
 </p>
 
 </div>
