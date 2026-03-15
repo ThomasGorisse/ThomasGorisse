@@ -1,49 +1,129 @@
-# Senior Android Engineer
-## In love with this everyday evolving technology.
+<!--
+  ╔══════════════════════════════════════════════════════╗
+  ║  Thomas Gorisse — GitHub Profile README              ║
+  ║  Push this content to:                               ║
+  ║  github.com/ThomasGorisse/ThomasGorisse/README.md    ║
+  ╚══════════════════════════════════════════════════════╝
+-->
 
-- Android Kotlin / Jetpack Compose / Navigation for Compose / Material 3
-- Flow / Coroutines / Hilt / Dagger / Room / Firebase
-- 3D / AR / ARCore / Filament / Sceneview / Sceneform / Blender
-- MVVM / Clean architecture
+<div align="center">
 
-## Apps I have been working on
+<h1>Thomas Gorisse</h1>
+<h3>Senior Android Engineer · Open Source Creator · AI-Augmented Builder</h3>
 
-![Mon E.Leclerc](https://playbadges.pavi2410.com/badge/full?id=com.infomil.bill&theme=dark)
-![Radio Restos](https://playbadges.pavi2410.com/badge/full?id=com.digitalmate.radiorestos&theme=dark)
-![Fortuneo](https://playbadges.pavi2410.com/badge/full?id=com.fortuneo.android&theme=dark)
-![2VOICE Manager](https://playbadges.pavi2410.com/badge/full?id=com.fdi.smartble&theme=dark)
-![SANOLINK](https://playbadges.pavi2410.com/badge/full?id=com.rebaze.sanolib&theme=dark)
-![SNPL](https://playbadges.pavi2410.com/badge/full?id=com.snpl.app2&theme=dark)
-![Octopus Community](https://playbadges.pavi2410.com/badge/full?id=com.octopuscommunity.app&theme=dark)
-![ScanMyHome](https://playbadges.pavi2410.com/badge/full?id=com.yembo.scanmyhome.onsite&theme=dark)
-![AR Model Viewer](https://playbadges.pavi2410.com/badge/full?id=com.gorisse.thomas.arcamera&theme=dark)
+<p>
+  <a href="https://thomasgorisse.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0b1120?style=flat-square&logo=firefox&logoColor=4f8ef7&label=thomasgorisse.github.io&labelColor=0b1120&color=4f8ef7" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/thomas-gorisse/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@thomasgorisse">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nantes%2C%20France-🇫🇷-0b1120?style=flat-square&labelColor=0b1120" />
+</p>
 
-## AR Developments
+</div>
 
-| ![135054559-1c5282d6-2476-4e71-92c6-cfc234cb5f3b](https://user-images.githubusercontent.com/6597529/137602613-0efe2991-2f14-4eb1-93b6-41e2b4825b02.gif) | ![ezgif-4-a36f88084ca8](https://user-images.githubusercontent.com/6597529/137602616-1493ba7d-8f40-449f-8d47-e1a4f140a3c9.gif) | ![ezgif-4-1564f0d2deca](https://user-images.githubusercontent.com/6597529/137602973-c8059bf2-e913-4d43-bc22-d3c9586b7920.gif) | ![ezgif-4-f331c11635f2](https://user-images.githubusercontent.com/6597529/137602892-87977a12-2a85-4be8-ba5a-f4fdc1e4e403.gif) |
-| - | - | - | - |
+---
 
-### I appreciate sharing / helping / discussing / developing on everything around mobile applications with beginers to experts in here:
-[![logo](https://user-images.githubusercontent.com/6597529/145185961-660b8bc3-1bde-459b-b190-42d180a1c336.png)](https://sceneview.github.io/)
+Senior Android Engineer with 10+ years building production-grade mobile apps. Deep expertise in Kotlin, Jetpack Compose, Clean Architecture, and 3D/AR — with open-source projects used by hundreds of teams worldwide.
 
+I'm actively expanding into iOS, Flutter, and cross-platform development, accelerated by AI-augmented workflows. Android is where I go deepest. Mobile is where I'm headed.
 
-### Resume
-To make it short I've been working on mobile applications since the real beginning and never leaved it to be now focused on Android.
+---
 
-| ![image](https://user-images.githubusercontent.com/6597529/137601986-f1838edb-9c92-4b3b-af36-036d6ed3c2fc.png) | ![android_phone](https://user-images.githubusercontent.com/6597529/137603445-1960f6a6-79c5-4b2a-9207-bb267ef16539.png) |
-| - | - |
+## Core Expertise
 
+**Android Architecture**
+Scalable, modular Android codebases with Clean Architecture, MVVM/MVI, multi-module Gradle, and Jetpack Compose. I design systems that survive real product pressure and grow without becoming unmaintainable.
 
-It could seems far away but my first job was to make apps for J2ME mobile phones Nokia/Samsung/Sony/Motorola/Blackberry and let users apreciate a good Dailymotion video on 320 x 240px 2.6 inches screens.
+**3D, AR & Spatial Computing**
+Creator of [SceneView](https://github.com/SceneView/sceneview-android) — the production Android library for ARCore and Filament-powered 3D experiences. Contributor to Google Filament. Building for Android XR and the next wave of spatial apps.
 
-| ![accueil](https://user-images.githubusercontent.com/6597529/137602417-cc6156ec-9e3e-4d9f-868f-8939c5ce7557.jpg) | ![scr](https://user-images.githubusercontent.com/6597529/137602243-d0a9d646-eb1a-4e47-84b6-4f7ab3a657c4.jpg) | ![splash](https://user-images.githubusercontent.com/6597529/137602335-1b6dcfcf-6548-469d-89dd-3914d2e1ec29.png) | ![navigo1](https://user-images.githubusercontent.com/6597529/137602434-5d6bacff-eee2-4da1-affe-d99fef07b2ec.png) |
-| - | - | - | - |
+**AI-Augmented Development**
+Using Claude to architect, review, and extend delivery across platforms I'm not natively expert in — with all the validation and judgment of a senior engineer in the loop. I even built my own [Android Studio plugin for Claude](https://github.com/ThomasGorisse/intelli-claude).
 
-And now, my job is to make things like this possible on Android phones:
+---
 
-![124511737-1f6ee300-ddd7-11eb-8f97-ff8ba45809d5](https://user-images.githubusercontent.com/6597529/137603455-5192575c-1960-482e-a89c-c9dbf990d1b9.gif)
+## Platform Reach
 
-https://user-images.githubusercontent.com/6597529/137815666-47564bce-1df0-4a02-bfc0-8c7c9ac5dd89.mp4
+| Platform | Level | Notes |
+|---|---|---|
+| **Android** | Senior expertise | 10+ years, Compose, ARCore, Architecture, 3D/AR |
+| **Kotlin Multiplatform** | Natural extension | Shared business logic, native UIs — the Kotlin-first path to multi-platform |
+| **Flutter** | Expanding | AI-accelerated, architecture-grounded, actively building fluency |
+| **iOS** | Expanding | Strong mobile architecture instincts + AI tooling — a capability in progress |
 
+---
 
+## Featured Open Source
 
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 [SceneView Android](https://github.com/SceneView/sceneview-android)
+![Stars](https://img.shields.io/github/stars/SceneView/sceneview-android?color=4f8ef7&style=flat-square)
+![Forks](https://img.shields.io/github/forks/SceneView/sceneview-android?color=34d399&style=flat-square)
+
+The production 3D and AR library for Android. Jetpack Compose + LayoutView, powered by Google Filament and ARCore.
+
+</td>
+<td width="50%">
+
+### 📦 [SceneForm Maintained](https://github.com/ThomasGorisse/SceneformMaintained)
+![Stars](https://img.shields.io/github/stars/ThomasGorisse/SceneformMaintained?color=4f8ef7&style=flat-square)
+
+Maintained fork of Google's Sceneform SDK — keeping ARCore development alive with active bug fixes and Kotlin upgrades.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 [IntelliClaude](https://github.com/ThomasGorisse/intelli-claude)
+
+Android Studio & IntelliJ plugin for Claude AI. Architecture review, code generation, and spec assistance — inside the IDE.
+
+</td>
+<td width="50%">
+
+### 🔥 [Google Filament](https://github.com/google/filament)
+![Stars](https://img.shields.io/github/stars/google/filament?color=4f8ef7&style=flat-square)
+
+Active contributor to Google's physically-based real-time rendering engine — the foundation of SceneView.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThomasGorisse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b1120&title_color=4f8ef7&icon_color=34d399&text_color=8fa3bf&ring_color=4f8ef7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasGorisse&layout=compact&theme=github_dark&hide_border=true&bg_color=0b1120&title_color=4f8ef7&text_color=8fa3bf&langs_count=5" />
+</div>
+
+---
+
+## Currently focused on
+
+- **Android XR** — spatial computing for the next form factor era
+- **Kotlin Multiplatform** — sharing business logic across Android and iOS at scale
+- **On-device AI** — Gemini Nano and AICore integration patterns for real products
+- **IntelliClaude** — making AI-native development a standard part of mobile engineering workflows
+
+---
+
+<div align="center">
+
+[thomasgorisse.github.io](https://thomasgorisse.github.io) · [LinkedIn](https://www.linkedin.com/in/thomas-gorisse/) · [YouTube](https://www.youtube.com/@thomasgorisse)
+
+</div>
