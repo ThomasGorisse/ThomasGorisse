@@ -12,7 +12,7 @@
 <h3>Senior Android Engineer · Open Source Creator · AI-Augmented Builder</h3>
 
 <p>
-  <a href="https://thomasgorisse.github.io">thomasgorisse.github.io</a> &nbsp;·&nbsp;
+  <a href="https://thomasgorisse.github.io">Website</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/thomas-gorisse/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@thomasgorisse">YouTube</a> &nbsp;·&nbsp;
   Nantes, France 🇫🇷
