@@ -37,7 +37,7 @@ I'm actively expanding into iOS, Flutter, and cross-platform development, accele
 An unusual depth: creator of [SceneView](https://github.com/SceneView/sceneview-android), contributor to Google Filament, and years of shipping AR features into real apps — from room-scanning experiences to 3D model viewers in production. Started as an exploration, became a genuine specialisation.
 
 **Building with AI**
-Built [IntelliClaude](https://github.com/ThomasGorisse/intelli-claude) — an Android Studio plugin for Claude — as a direct response to my own need for better tooling. I use it daily: architecture review, spec generation, and accelerating delivery on Flutter and React Native alongside my Android core. Engineering judgment stays in the loop, always.
+I build tooling when it doesn't exist — filling gaps in my own workflow as essential engineering infrastructure, not side projects. Using AI for architecture review, spec generation, and accelerating cross-platform delivery. Engineering judgment stays in the loop, always.
 
 ---
 
@@ -77,14 +77,15 @@ Maintained fork of Google's Sceneform SDK — keeping ARCore development alive w
 <tr>
 <td width="50%">
 
-### 🧩 [IntelliClaude](https://github.com/ThomasGorisse/intelli-claude)
+### K [kotlin-math](https://github.com/ThomasGorisse/kotlin-math)
+![Stars](https://img.shields.io/github/stars/ThomasGorisse/kotlin-math?color=4f8ef7&style=flat-square)
 
-Android Studio & IntelliJ plugin for Claude AI. Architecture review, code generation, and spec assistance — inside the IDE.
+Kotlin APIs for graphics math — vectors, matrices, and quaternions. The missing piece for idiomatic 3D development on Android.
 
 </td>
 <td width="50%">
 
-### 🔥 [Google Filament](https://github.com/google/filament)
+### G [Google Filament](https://github.com/google/filament)
 ![Stars](https://img.shields.io/github/stars/google/filament?color=4f8ef7&style=flat-square)
 
 Active contributor to Google's physically-based real-time rendering engine — the foundation of SceneView.
@@ -109,7 +110,7 @@ Active contributor to Google's physically-based real-time rendering engine — t
 - **Android XR** — spatial computing for the next form factor era
 - **Kotlin Multiplatform** — sharing business logic across Android and iOS at scale
 - **On-device AI** — Gemini Nano and AICore integration patterns for real products
-- **IntelliClaude** — making AI-native development a standard part of mobile engineering workflows
+- **AI-native workflows** — making spec-driven, AI-augmented development a standard part of mobile engineering
 
 ---
 
