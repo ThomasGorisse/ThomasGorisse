@@ -30,14 +30,14 @@ I'm actively expanding into iOS, Flutter, and cross-platform development, accele
 
 ## Core Expertise
 
-**Android Architecture**
-Scalable, modular Android codebases with Clean Architecture, MVVM/MVI, multi-module Gradle, and Jetpack Compose. I design systems that survive real product pressure and grow without becoming unmaintainable.
+**Android Engineering**
+10+ years building production Android apps across retail, finance, healthcare, and social — serving millions of users. Kotlin, Jetpack Compose, and architecture patterns (MVVM, Clean Architecture, multi-module) that keep codebases maintainable as products and teams scale.
 
-**3D, AR & Spatial Computing**
-Creator of [SceneView](https://github.com/SceneView/sceneview-android) — the production Android library for ARCore and Filament-powered 3D experiences. Contributor to Google Filament. Building for Android XR and the next wave of spatial apps.
+**3D & Spatial Computing**
+An unusual depth: creator of [SceneView](https://github.com/SceneView/sceneview-android), contributor to Google Filament, and years of shipping AR features into real apps — from room-scanning experiences to 3D model viewers in production. Started as an exploration, became a genuine specialisation.
 
-**AI-Augmented Development**
-Using Claude to architect, review, and extend delivery across platforms I'm not natively expert in — with all the validation and judgment of a senior engineer in the loop. I even built my own [Android Studio plugin for Claude](https://github.com/ThomasGorisse/intelli-claude).
+**Building with AI**
+Built [IntelliClaude](https://github.com/ThomasGorisse/intelli-claude) — an Android Studio plugin for Claude — as a direct response to my own need for better tooling. I use it daily: architecture review, spec generation, and accelerating delivery on Flutter and React Native alongside my Android core. Engineering judgment stays in the loop, always.
 
 ---
 
